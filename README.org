@@ -1,0 +1,5 @@
+* About
+This is a repo to track edits in my basic HTML website located [[http://lowlyletterato.freeshell.org/][here]]
+
+* License
+This site is licensed under the GPL 3
