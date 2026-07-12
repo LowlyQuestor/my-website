@@ -1,0 +1,44 @@
+body {
+    background-color: #232122;
+    color: #b1b2b5;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    
+}
+
+h1, h2 {
+    font-family: "Liberation Serif", Georgia, serif;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-links li {
+    float: left;
+}
+
+.nav-links li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
